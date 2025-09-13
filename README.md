@@ -1,4 +1,4 @@
-# INVERSE INFECTION GNN
+# NETWORK-AWARE-UPLIFT-MODELING
 
 Code used in masters thesis: Network-Aware Uplift Modeling through Influence
 Maximization Techniques. 
